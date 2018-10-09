@@ -1,4 +1,4 @@
-##Troubleshooting
+# Troubleshooting
 
 1. If Karma is not available locally ($ which karma)
 ```
@@ -19,4 +19,4 @@
 
 4. karma-cli global install (How to Prevent Permissions Errors)
 
-*! https://docs.npmjs.com/getting-started/fixing-npm-permissions
+*!https://docs.npmjs.com/getting-started/fixing-npm-permissions
