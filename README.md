@@ -14,9 +14,15 @@
 3. Can not load "sourcemap", it is not registered! (plug-in missing)
 
 ```
-    'karma-sourcemap-loader'
+    plugins: [
+      ...
+      'karma-sourcemap-loader'
+    ],
+      ...
 ```
 
 4. karma-cli global install (How to Prevent Permissions Errors)
 
-!https://docs.npmjs.com/getting-started/fixing-npm-permissions
+```
+    https://docs.npmjs.com/getting-started/fixing-npm-permissions
+```
